@@ -3,6 +3,7 @@
 [English](README.md)
 
 > 这是 Typora Markdown 编辑器的类似使用 VuePress 所生成的文档风格自定义主题。
+>
 > WYSIWYG，所见即所得。开发尽量和生产环境保持一致。
 
 ## 简介
