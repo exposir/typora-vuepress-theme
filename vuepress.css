@@ -18,7 +18,7 @@
     --side-bar-menu-active-tint: var(--side-bar-menu-active-tint);     
     --drake-accent: #3eaf7c;
     --active-file-border-color: var(--drake-accent);
-    --drake-highlight: #d63200;
+    --drake-highlight:  #476582;
     --a-color: var(--drake-accent);
     --variable-color: var(--drake-highlight);
     --outline-active-color: var(--a-color);
@@ -162,8 +162,12 @@ pre.md-fences-advanced.md-focus .md-fences-adv-panel {
 
 /*code snippet*/
 #write code, tt {
-    margin: 0 2px;
-    color: var(--drake-highlight);
+    font-size: .85em;
+    color: #476582;
+    background-color: rgba(27,31,35,.05);;
+    padding: .065em .4em;
+    margin: 0;
+    border-radius: 3px;
 }
 
 /*variable*/
@@ -1011,7 +1015,6 @@ a.ty-link {
    background: none;
    color: var(--code-block-color);
    font-size: 14px;
-   /* font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;!important; */
 }
 .cm-s-inner span.cm-meta {
    color: #BBB529;
