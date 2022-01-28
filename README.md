@@ -23,8 +23,8 @@
 
 ### Typora 开发环境
 
-![typora](https://github.com/exposir/weekly/blob/master/beds/blog/typora1.png?raw=true)
+![typora](https://raw.githubusercontent.com/exposir/beds/main/blog/typora1.png)
 
 ### VuePress 生产环境
 
-![vuepress](https://github.com/exposir/weekly/blob/master/beds/blog/typora2.png?raw=true)
+![vuepress](https://raw.githubusercontent.com/exposir/beds/main/blog/typora1.png)
