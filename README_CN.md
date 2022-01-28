@@ -1,6 +1,6 @@
 # typora-vuepress-theme
 
-[English](README_CN.md)
+[English](README.md)
 
 > 这是 Typora Markdown 编辑器的类似使用 VuePress 所生成的文档风格自定义主题。
 >
