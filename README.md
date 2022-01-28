@@ -21,8 +21,10 @@
 
 ## 效果图
 
-![vue主题效果图1](http://static.blinkfox.com/typora_vue_theme_screen_01.png)
+### Typora 开发环境
 
-![vue主题效果图2](http://static.blinkfox.com/typora_vue_theme_screen_02.png)
+![typora](https://cdn.jsdelivr.net/gh/exposir/weekly@master/beds/blog/typora1.png)
 
-![vue主题效果图3](http://static.blinkfox.com/typora_vue_theme_screen_03.png)
+### VuePress 生产环境
+
+![vuepress](https://cdn.jsdelivr.net/gh/exposir/weekly@master/beds/blog/typora2.png)
