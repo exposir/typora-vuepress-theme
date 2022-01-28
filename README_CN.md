@@ -1,4 +1,4 @@
-# typora-vue-theme
+# typora-vuepress-theme
 
 [English](README.md)
 
