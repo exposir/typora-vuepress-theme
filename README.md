@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://typora.io/"><img src="https://i.imgur.com/3U8bJOE.png" alt="image-20210710130755511" width="150" /></a>
+</p>
+
 # typora-vuepress-theme
 
 [中文](README_CN.md)
