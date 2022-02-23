@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://typora.io/"><img src="https://i.imgur.com/3U8bJOE.png" alt="image-20210710130755511" width="150" /></a>
+<a href="https://typora.io/"><img src="https://user-images.githubusercontent.com/33340988/155271640-9684ef5a-4e5c-4f6d-999b-f5111760df49.png" alt="image-20210710130755511" width="150" /></a>
 </p>
 
 # typora-vuepress-theme
