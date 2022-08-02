@@ -27,9 +27,8 @@
 
 ### Typora development environment
 
-![typora](https://raw.githubusercontent.com/exposir/beds/main/blog/typora1.png)
+![previewTypora](./previewTypora.png)
 
 ### VuePress production environment
 
-![typora2](https://user-images.githubusercontent.com/33340988/155271500-284694bf-ed16-49ff-93dc-06f26b47482b.png)
-
+![previewVuePress](./previewVuePress.png)
